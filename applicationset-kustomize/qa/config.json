@@ -1,5 +1,0 @@
-{
-    "name": "kustomize-webapp-qa-generated",
-    "targetNamespace": "kustomize-webapp-qa-as",
-    "kustomizePath": "kustomize-webapp/overlays/dev" 
-}
